@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="0dp"
+    android:orientation = "vertical"
+    tools:context=".MainActivity$PlaceholderFragment"
+    android:id="@+id/fragment_main"
+    android:background="#fc5bbfe4"
+    android:weightSum="1"
+    android:theme="@style/AppTheme">
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo"
+        android:background="@null"
+        android:onClick="sendLocation" />
+
+    <ImageView
+        android:layout_width="142dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/slogan"
+        android:layout_marginTop="-125dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:text="FRIENDS"
+        android:id="@+id/button2"
+        android:onClick="sendToFriends"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_weight="0"
+        android:layout_marginRight="0dp"
+        android:background="@null"
+        android:textColor="#ff348cae" />
+
+</LinearLayout>
