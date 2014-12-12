@@ -2,14 +2,14 @@ README
 
 I. General Information
 	Project name: alli
-	Current devs: Nader Helmy, Simon Bloch, Miguel Gutierrez, Michael Piazza,
-		Dylan Jeffers
+	Current devs: Michael Piazza(team lead), Nader Helmy, Simon Bloch, 
+		Miguel Gutierrez, Dylan Jeffers
 	Outline: winner of Google Hack4Humanity		Dec. 2014
 		- Helps combat sexual assault on college campuses through multipronged 
 			prevention approach
-		- Runs on Android KitKat 4.4.4 (with possibilities to go lower)
 		- Uses GPS location services to help friends make contact and build
 			safe spaces through anonymous ally-ship
+		- Runs on Android KitKat 4.4.4 (with possibilities to go lower)
 		- Firebase data base stores data to help campus administration enact 
 			informed long-term policies
 		- Developed a working prototype in 48 hours at Hack4Humanity in NY
@@ -37,4 +37,8 @@ III. Testing
 More information regarding specifications and design coming soon.
 
 IV. Contact Us
-	Dylan Jeffers: CainEnabled@gmail.com
+	Michael Piazza michael.piazza.mp@gmail.com
+	Dylan Jeffers: CaneEnabled@gmail.com
+	Nader Helmy: nhelmy1@swarthmore.edu
+	Miguel Gutierrez: mgutier1@swarthmore.edu
+	Simon Bloch: sbloch1@swarthmore.edu
